@@ -1,0 +1,10 @@
+.centrarImagen{
+    position: relative;
+    left: 380px;
+    top: 30px;
+}
+
+.tituloIndex{
+    position: relative;
+    bottom: 200px;
+}
